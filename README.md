@@ -38,7 +38,7 @@ Removed 35 duplicate rows, converted Sales from text to numeric by stripping the
 
 ## Dashboard
 
-![Dashboard Screenshot](dashboard/dashboard_screenshot.png)
+![Dashboard Screenshot](Dashboard/Screenshot%202026-10-01%20191539.png)
 
 Interactive Power BI dashboard with KPI cards (Total Sales, Total Profit, Total Orders, Margin %), monthly trend, sub-category profit breakdown, discount band analysis, and Region/Category/Year filters.
 
